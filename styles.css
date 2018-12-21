@@ -1,5 +1,5 @@
 .jumbotron{
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpxEGlgVDug6F1M6Z4X7G9wSNCD9jRUpmXBDe7xJILzMdv2kCPQ");
+    background-image:url("http://www.52dazhew.com/data/out/171/586933760-nice-background-wallpaper.jpg" );
 }
 #fifth-p p{
     text-align: center;
@@ -8,4 +8,14 @@
 }
 .well{
     background-color: bisque;
+}
+#fifth-p{
+    visibility: hidden;
+    background-color: burlywood;
+    height:300px;
+}
+.panel{
+    background-color:darkolivegreen;
+    background-size: contain; 
+    position: relative;
 }

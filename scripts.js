@@ -1,3 +1,4 @@
+// Front- End Logic
 function check() {
     var questionOne = document.Quiz.questionOne.value;
     var questionTwo = document.Quiz.questionTwo.value;
@@ -24,11 +25,12 @@ function check() {
     };
 
 
-
+    
     document.getElementById("fifth-p").style.visibility = "visible";
     document.getElementById("correctNumber").innerHTML = "HERE IS YOUR SCORE: " + right + "/50";
     $(".container").fadeOut();
 
 };
+// Business-Logic
 
 

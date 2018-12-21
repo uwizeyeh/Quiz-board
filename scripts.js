@@ -8,25 +8,25 @@ function check() {
 
 
     if (question1 == "correct") {
-        right = right + 20;
+        right = right + 10;
     };
     if (question2 == "correct") {
-        right = right + 20;
+        right = right + 10;
     };
     if (question3 == "correct") {
-        right = right + 20;
+        right = right + 10;
     };
     if (question4 == "correct") {
-        right = right + 20;
+        right = right + 10;
     };
     if (question5 == "correct") {
-        right = right + 20;
+        right = right + 10;
     };
 
 
 
-    document.getElementById("quiz").style.visibility = "visible";
-    document.getElementById("correctNumber").innerHTML = "HERE IS YOUR SCORE: " + right + "%";
+    document.getElementById("fifth-p").style.visibility = "visible";
+    document.getElementById("correctNumber").innerHTML = "HERE IS YOUR SCORE: " + right + "/50";
     $(".container").fadeOut();
 
 };

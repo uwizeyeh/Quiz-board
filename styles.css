@@ -1,4 +1,11 @@
-body{
+.jumbotron{
     background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpxEGlgVDug6F1M6Z4X7G9wSNCD9jRUpmXBDe7xJILzMdv2kCPQ");
-    background-image:repeat;
+}
+#fifth-p p{
+    text-align: center;
+    transform: translate(0%,50%);
+    font-size: 40px;
+}
+.well{
+    background-color: bisque;
 }

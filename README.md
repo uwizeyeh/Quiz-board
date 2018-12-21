@@ -19,7 +19,7 @@ CSS
 README
 Javascript
 ### Link
-If you want more info:
+If you want more info: https://uwizeyeh.github.io/Quiz-board/
 
 ### License
 copyright (c)2018

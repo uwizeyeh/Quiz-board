@@ -1,25 +1,25 @@
 function check() {
-    var question1= document.Quiz.question1.value;
-    var question2 = document.Quiz.question2.value;
-    var question3 = document.Quiz.question3.value;
-    var question4 = document.Quiz.question4.value;
-    var question5 = document.Quiz.question5.value;
+    var questionOne = document.Quiz.questionOne.value;
+    var questionTwo = document.Quiz.questionTwo.value;
+    var questionThree = document.Quiz.questionThree.value;
+    var questionFour = document.Quiz.questionFour.value;
+    var questionFive = document.Quiz.questionFive.value;
     var right = 0;
 
 
-    if (question1 == "correct") {
+    if (questionOne == "correct") {
         right = right + 10;
     };
-    if (question2 == "correct") {
+    if (questionTwo == "correct") {
         right = right + 10;
     };
-    if (question3 == "correct") {
+    if (questionThree == "correct") {
         right = right + 10;
     };
-    if (question4 == "correct") {
+    if (questionFour == "correct") {
         right = right + 10;
     };
-    if (question5 == "correct") {
+    if (questionFive == "correct") {
         right = right + 10;
     };
 
@@ -30,3 +30,5 @@ function check() {
     $(".container").fadeOut();
 
 };
+
+

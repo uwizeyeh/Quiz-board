@@ -3,9 +3,9 @@ Quiz Board
 ## Description
 This project is a project that allows the user to answer questions from a multiple choice questions that you would have created
 ## Author
-Name:Uwizeyimana Hulde
-Email:uwizeyimanahulde1@gmail.com
-Tel:0782356570
+* Name:Uwizeyimana Hulde
+* Email:uwizeyimanahulde1@gmail.com
+* Tel:0782356570
 ### Set up istruction
 * Visual studio code
 * Github
